@@ -3,40 +3,45 @@
   <br>
   Netflix Clone Built Using React.JS
 </h1>
+  <h1>Overview📖</h1>
 <p dir="auto">
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end. It's not a replica, and it     doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br><br> 
-<h1 tabindex="-1" dir="auto"><a id="user-content-technology-used" class="anchor" aria-hidden="true" href="#technology-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Technology Used</h1>
-<p dir="auto">I have built this project using the following tools &amp; techniques:</p>
+<h1>Technology Used👨🏻‍💻</h1>
+ <p dir="auto">I have built this project using the following tools &amp; techniques:</p>
+
 <ul dir="auto">
-<li>React.JS</li>
-<li>React Router.</li>
-<li>React Forms.</li>
-<li>React Modal.</li>
-<li>useState.</li>
-<li>useEffect.</li>
-<li>useState.</li>
-<li>JSX.</li>
-<li>CSS Modules.</li>
-<li>VSCode.</li>
-<li>StyleLint.</li>
-<li>Github Actions.</li>
-<li>Github Pages.</li>
+  <li>🔴React.JS</li>
+  <li>🔴React Router.</li>
+  <li>🔴React Forms.</li>
+  <li>🔴React Modal.</li>
+  <li>🔴React Icons.</li>
+  <li>🔵useState.</li>
+  <li>🔵useEffect.</li>
+  <li>🔵JSX.</li>
+  <li>🔵Axios.</li>
+  <li>🔵Webpack.</li>
+  <li>🟡CSS Modules.</li>
+  <li>🟡Media Queries.</li>
+  <li>🟡VSCode.</li>
+  <li>🟡StyleLint.</li>
+  <li>🟣Github Actions.</li>
 </ul>
-  <h1>Sign In Credentials</h1>
-  <ul>
-    <li>Username : admin@gmail.com </li>
-    <li>Password : password@123 </li>
-    <li>Customer profile password : 1234 </li>
-    <li>Manager profile password : 5678 </li>
-  </ul>
-  <h1>Reference Video</h1>
+  
+<h1>Sign In Credentials🔐</h1>
+<ul>
+  <li>🟢Username : admin@gmail.com </li>
+  <li>🟢Password : password@123 </li>
+  <li>🟢Customer profile password : 1234 </li>
+  <li>🟢Manager profile password : 5678 </li>
+</ul>
+
+<h1>Reference Video📽</h1>
 
 https://github.com/gokulc200/STACIA-CORP/assets/121416463/edaa9768-6995-49a1-8cba-c74bee9198dc
 
-  
-  <h1>Reference Images</h1>
-    <h3>Laptop View</h3>
+<h1>Reference Images📷</h1>
+<h3>Laptop View</h3>
   
   ![Screenshot 2023-05-31 130017](https://github.com/gokulc200/STACIA-CORP/assets/121416463/1a677d0c-6b3a-4000-9d50-86957cc20e72)
 
@@ -53,12 +58,10 @@ https://github.com/gokulc200/STACIA-CORP/assets/121416463/edaa9768-6995-49a1-8cb
   ![Screenshot 2023-05-31 130231](https://github.com/gokulc200/STACIA-CORP/assets/121416463/188e49f0-010e-4825-b07b-316397cd13be)
 
   ![Screenshot 2023-05-31 130315](https://github.com/gokulc200/STACIA-CORP/assets/121416463/d8c295d1-6a90-4b7c-b0fc-d0a4649e143b)
-
   
   ![Screenshot 2023-05-31 130355](https://github.com/gokulc200/STACIA-CORP/assets/121416463/26ead188-b1d0-49c2-834a-5609abaf5d6e)
 
-  <h3>Mobile View</h3>
-    
+<h3>Mobile View</h3>
 
 ![Screenshot 2023-05-31 125553](https://github.com/gokulc200/STACIA-CORP/assets/121416463/402f7766-6b24-464b-8213-cd6aee36d4fc)
 
@@ -66,6 +69,7 @@ https://github.com/gokulc200/STACIA-CORP/assets/121416463/edaa9768-6995-49a1-8cb
 
   ![Screenshot 2023-05-31 125705](https://github.com/gokulc200/STACIA-CORP/assets/121416463/970b2246-180f-4072-a9ac-2282d8cef2a1)
 
+  
   ![Screenshot 2023-05-31 125734](https://github.com/gokulc200/STACIA-CORP/assets/121416463/6fb205af-77ff-411f-a5b6-869d6ac3d76c)
   
 ![Screenshot 2023-05-31 125818](https://github.com/gokulc200/STACIA-CORP/assets/121416463/feff0674-f8c7-48fa-831a-df38e995b550)
@@ -74,4 +78,6 @@ https://github.com/gokulc200/STACIA-CORP/assets/121416463/edaa9768-6995-49a1-8cb
 
   ![Screenshot 2023-05-31 125923](https://github.com/gokulc200/STACIA-CORP/assets/121416463/3b0b81a2-747a-4d6c-979b-779836b92cfd)
 
-  
+    
+  <h1>Contribution🙌🏻</h1>
+  <p>Contributors are welcome to submit pull requests for bug fixes, new features, or improvements. Guidelines for contributing and a code of conduct will be provided to ensure a collaborative and inclusive development process.</p>
