@@ -1,0 +1,57 @@
+.profiles-container {
+  background-color: black;
+  color: whitesmoke;
+  height: 100vh;
+}
+
+.profile-logo {
+  width: 75%;
+  border-radius: 15px;
+  padding-bottom: 10px;
+}
+
+.card {
+  background-color: black;
+  color: rgb(83, 78, 78);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.lock-logo {
+  margin-top: 10px;
+  font-size: 1.5em;
+}
+
+.input-field-profile {
+  height: 60px;
+  border-radius: 10px;
+  width: 60%;
+  font-size: large;
+  text-align: center;
+}
+
+.submit-profile-btn {
+  background-color: rgb(255, 0, 72);
+  width: 30%;
+  font-size: large;
+  text-align: center;
+  margin-top: 30px;
+  height: 40px;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+@media screen and (min-width:768px) {
+  .input-field-profile {
+    width: 20%;
+  }
+
+  .submit-profile-btn {
+    width: 10%;
+  }
+
+  .lock-logo {
+    margin-top: 10px;
+    font-size: 2em;
+  }
+}

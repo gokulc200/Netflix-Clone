@@ -1,0 +1,137 @@
+.home-container {
+  background-color: #091529;
+  min-height: 100vh;
+  color: whitesmoke;
+}
+
+.netflix-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.netflix-home-logo {
+  height: 100px;
+  width: 210px;
+}
+
+.main-card {
+  background-image: url('https://res.cloudinary.com/gokulc/image/upload/v1685252308/Screenshot_2023-05-28_110745_mhwfl9.png');
+  background-size: cover;
+  width: 100%;
+  height: 85vh;
+}
+
+.main-heading-card {
+  padding-left: 50px;
+  padding-top: 50px;
+  width: 70%;
+}
+
+.unlimited-description {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.watch-description {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.sign-in-btn {
+  height: 50px;
+  color: whitesmoke;
+  background-color: rgba(255, 0, 0, 0.941);
+  width: 100px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 500;
+  padding-top: 6px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.movie-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-width {
+  width: 55%;
+}
+
+.movie-images {
+  width: 40%;
+  height: 50%;
+}
+
+.head-description {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.para-description {
+  font-size: 35px;
+  font-weight: 500;
+}
+
+@media screen and (max-width:768px) {
+  .netflix-home-logo {
+    height: 50px;
+    width: 100px;
+  }
+
+  .sign-in-btn {
+    height: 33px;
+    color: whitesmoke;
+    background-color: rgba(255, 0, 0, 0.941);
+    width: 75px;
+    border-radius: 8px;
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+
+  .main-heading-card {
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 80%;
+  }
+
+  .unlimited-description {
+    font-size: 45px;
+  }
+
+  .watch-description {
+    font-size: 25px;
+  }
+
+  .movie-images {
+    width: 80%;
+    height: 180px;
+    border-radius: 10px;
+  }
+
+  .head-description {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .para-description {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .movie-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .movie-width {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}

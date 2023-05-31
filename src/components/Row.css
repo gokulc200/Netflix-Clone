@@ -1,0 +1,57 @@
+.row {
+    margin-left: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.row__poster {
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+    transition: transform 450ms;
+    margin-right: 15px;
+}
+
+.row__posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+
+.row__posters::-webkit-scrollbar {
+    display: none;
+}
+
+.row__poster:hover {
+    transform: scale(1.08);
+}
+
+.row__posterLarge {
+    max-height: 250px;
+}
+
+.row__posterLarge:hover {
+    transform: scale(1.09);
+}
+
+@media screen and (max-width:768px) {
+    .row {
+        margin-left: 10px;
+        color: white;
+        padding-top: 15px;
+    }
+
+
+    .row__posters {
+        padding: 10px;
+    }
+
+    .row__poster {
+        max-height: 150px;
+    }
+
+    .row__posterLarge {
+        max-height: 200px;
+    }
+}
